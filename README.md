@@ -5,9 +5,6 @@
 <br />
 
 <div align="center">
-  <a href="https://discord.com/users/1456329840054763603">
-    <img src="https://img.shields.io/badge/yummmyscrummyyum-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <a href="https://nics.lol/yummy">
     <img src="https://img.shields.io/badge/nics.lol%2Fyummy-00d4ff?style=for-the-badge&logo=chainlink&logoColor=white" />
   </a>
